@@ -14,7 +14,7 @@ const SignIn = () => {
             <h1>Sign In Page</h1>
             <button onClick={logGoogleUser}>Sign in with Google Poput</button>
         </div>
-    )
-}
+    );
+};
 
 export default SignIn;

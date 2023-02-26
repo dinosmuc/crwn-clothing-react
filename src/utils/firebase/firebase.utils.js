@@ -60,6 +60,7 @@ const firebaseConfig = {
       }
     }
 
+    
     return userDocRef;
 
   };
